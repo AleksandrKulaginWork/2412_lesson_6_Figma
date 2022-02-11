@@ -1,0 +1,84 @@
+
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/CircularStd-Book.woff2") format("woff2"), url("../fonts/CircularStd-Book.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fots/CircularStd-Bold.woff2") format("woff2"), url("../fonts/CircularStd-Bold.woff") format("woff");
+    font-weight: 700;
+	font-display: swap;
+}
+
+.wrapper {
+	min-height: 100%;
+	font-family: "CircularStd", sans-serif;
+	width: 1025px;
+	margin: 0 auto;
+}
+
+.block {
+    text-align: center;
+}
+
+.title {
+	font-size: 65px;
+	line-height: 1.26;
+	color: #313131;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.text {
+    font-size: 20px;
+	line-height: 1.26;
+	color: #5F5F5F;
+}
+
+.title2 {
+    font-size: 34px;
+	font-weight: 700;
+	line-height: 1.3;
+	color: #313131;
+	margin: 224px 0 20px 0;
+}
+
+.text2 {
+    font-size: 18px;
+	line-height: 1.55;
+	color: #5F5F5F;
+	width: 508px;
+    height: 140px;
+}
+
+.text3 {
+    font-size: 18px;
+	line-height: 1.3;
+	color: #313131;
+	margin: 125px 0 5px 0;
+	font-weight: 700;
+}
+
+.text4 {
+    font-size: 18px;
+	line-height: 1.26;
+	color: #B8B8B8;
+}
+
+.image {
+	margin-left: 517px;
+	margin-top: -540px;
+}
+
+
+
+
+
+
+
+
+
